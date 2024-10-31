@@ -1,4 +1,4 @@
-# README.md: Panduan Pengguna Proyek [ARIEL DWI SAPUTRA]
+# Panduan Pengguna Proyek [ARIEL DWI SAPUTRA]
 
 #### 1. Clone Repository:
 
@@ -13,7 +13,7 @@ Ganti [URL_repository] dengan URL repository yang sebenarnya.**
 Dependensi ini bisa berupa library, framework, atau tools lainnya. Instruksi untuk menginstal dependensi biasanya terdapat dalam bagian
 "Instalasi" di README.md.**
 
-#### Jalankan Proyek:
+#### 3. Jalankan Proyek:
 
 **Setelah semua dependensi terinstal, Anda bisa menjalankan proyek sesuai dengan instruksi 
 yang diberikan di README.md. Instruksi ini bisa berupa perintah untuk menjalankan server,
