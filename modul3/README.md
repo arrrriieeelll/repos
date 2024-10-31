@@ -5,8 +5,7 @@
 **Jika proyek tersebut berada di sebuah repository (misalnya GitHub),
 Anda perlu mengkloning repository tersebut ke komputer Anda.
 Caranya adalah dengan menggunakan perintah git clone[URL_repository].
-Ganti [URL_repository] dengan URL repository yang sebenarnya.
-**
+Ganti [URL_repository] dengan URL repository yang sebenarnya.**
 
 #### 2. Instal Dependensi:
 
