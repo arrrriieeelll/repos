@@ -11,8 +11,7 @@ public class KalkulatorMakanan {
         int kaloriAyam = scanner.nextInt();
 
         // Menggunakan custom live template "totalKalori"
-        int totalKalori = kaloriNasi + kaloriAyam; 
-
+        int totalKalori = kaloriNasi + kaloriAyam;
         System.out.println("Total kalori: " + totalKalori);
     }
 }
